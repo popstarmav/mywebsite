@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Professional Portfolio</title>
+    <title>Charles Johnson - Professional Portfolio</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -11,7 +11,7 @@
     <nav>
         <div class="nav-content">
             <div class="logo">
-                <a href="#">Your Name</a>
+                <a href="#">Charles Johnson</a>
             </div>
             <ul class="nav-links">
                 <li><a href="#about">About</a></li>
