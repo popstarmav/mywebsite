@@ -21,10 +21,4 @@ A simple, clean website to showcase my professional resume and experience.
 ## View Resume
 
 Visit [https://popstarmav.github.io/mywebsite/] 
-## Contact
 
-For job opportunities or collaborations, please reach out via:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [Your Username](https://github.com/yourusername)
-EOF
